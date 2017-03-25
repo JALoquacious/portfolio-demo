@@ -1,0 +1,14 @@
+@media only screen and (max-width: 1169px){
+	body{font-size:60%;}
+}
+@media only screen and (max-width: 1025px){
+	body{font-size:55%;}	
+}
+@media only screen and (max-width: 768px){
+	body{font-size:50%;}	
+
+	#header .profile-picture{float:none;margin:0 2em 3em 0;width:300px;}
+}
+@media only screen and (max-width: 569px){
+	body{font-size:40%;}
+}
